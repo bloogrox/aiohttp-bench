@@ -1,0 +1,7 @@
+asyncio
+aiohttp
+cchardet
+aiodns
+aioredis
+uvloop
+aio-pika
